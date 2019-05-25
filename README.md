@@ -26,11 +26,14 @@ c9: talking to passenger
 
 
 Solution & Experiments: 
+
 Using tensorflow, Keras, Conv2D, MaxPooling2D.
 •	Epochs=10, took 1.5hours to train the model with GPU, got an accuracy of 96.7%.
 •	Epochs=20, took 2.3hours to train the model with GPU, got an accuracy of 97.2%.
+
 Using tensorflow, Keras, Conv2D, MaxPooling2D, Dropout, BatchNormalization.
 •	Epochs=10, took 30min to train the model with GPU, got an accuracy of 98%.
 •	Epochs=20, took 1hour to train the model with GPU, got an accuracy of 99.5%.
+
 
 Performance: Final Accuracy(evaluate_generator) is 95.5%.
