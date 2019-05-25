@@ -36,4 +36,4 @@ Using tensorflow, Keras, Conv2D, MaxPooling2D, Dropout, BatchNormalization.
 •	Epochs=20, took 1hour to train the model with GPU, got an accuracy of 99.5%.
 
 
-Performance: Final Accuracy(evaluate_generator) is 95.5%.
+Performance: Final Accuracy(evaluate_generator) is 99.5%.
