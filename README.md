@@ -94,4 +94,4 @@ Saved Models:
 
 
 
-Performance: Final Accuracy(evaluate_generator) is 99.5%.
+
