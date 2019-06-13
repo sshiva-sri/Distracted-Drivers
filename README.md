@@ -1,7 +1,9 @@
 # Distracted-Drivers
 Distracted Driver MultiAction Classification
 
-Problem statement: According to the CDC motor vehicle safety division one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year. State Farm hopes to improve these alarming statistics, and better insure their customers, by testing whether dashboard cameras can automatically detect drivers engaging in distracted behaviors. Given a dataset of 2D dashboard camera images, Are they driving attentively, wearing their seatbelt, or taking a selfie with their friends in the backseat?
+Problem statement: 
+-------------------
+According to the CDC motor vehicle safety division one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year. State Farm hopes to improve these alarming statistics, and better insure their customers, by testing whether dashboard cameras can automatically detect drivers engaging in distracted behaviors. Given a dataset of 2D dashboard camera images, Are they driving attentively, wearing their seatbelt, or taking a selfie with their friends in the backseat?
 
 
 c0: safe driving
