@@ -65,19 +65,9 @@ Problems Faced:
 ---------------
 * Main problem faced was 4GB RAM was not sufficient, system got struck once started with the training the model. 
 
-*So tried processing in Kaggle Kernel. Training the model utilized 12.5GB of RAM and the training time was 30minutes.
+* So tried processing in Kaggle Kernel. Training the model utilized 12.5GB of RAM and the training time was 30minutes.
 
-*Initial Accuracy was just 10% .
-
-
-Experiments:
--------------
-
-
-
-Final model code:
------------------
-
+* Initial Accuracy was just 10% .
 
 
 Performance:
@@ -85,10 +75,6 @@ Performance:
 
 Final Accuracy is 99.51%
 
-
-
-Saved Models: 
--------------
 
 
 
