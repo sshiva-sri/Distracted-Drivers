@@ -24,8 +24,33 @@ c8: hair and makeup
 
 c9: talking to passenger
 
+-----------------------------------------------------------------------------------------------
 
-Solution & Experiments: 
+Initial proposal for solution:
+
+
+
+Problems Faced:
+
+
+
+Experiments:
+
+
+
+
+Final model code:
+
+
+
+
+Performance:
+
+
+
+
+
+Saved Models: 
 
 Using tensorflow, Keras, Conv2D, MaxPooling2D.
 •	Epochs=10, took 1.5hours to train the model with GPU, got an accuracy of 96.7%.
