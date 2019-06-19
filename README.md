@@ -35,6 +35,7 @@ Built a simple Neural Network CNN with Keras with 3 convolutions ,3 Maxpooling ,
 Parameters calculation:
 ___________________________
 
+For convolution layers the Parameters calculation is as follows: 
 No of parameters = Input layer * 	filter size * no of filters + bias
 ____________________________________________________________________
 conv2d_1 	params=320
@@ -49,6 +50,8 @@ conv2d_3 	params=73856
 
 64 * 3 * 3 * 128 + 128=73856
 ____________________
+
+For Flatten layer the Parameter calculation is as follows:
 max_pooling2d_3 (MaxPooling2 (None, 30, 30, 128)       
 
 flatten_1 (Flatten)          (None, 115200)           
@@ -63,7 +66,7 @@ _________________________
 
 Problems Faced:
 ---------------
-* Main problem faced was 4GB RAM was not sufficient, system got struck once started with the training the model. 
+* Main problem faced was 4GB RAM was not sufficient, system got stuck once started with the training the model. 
 
 * So tried processing in Kaggle Kernel. Training the model utilized 12.5GB of RAM and the training time was 30minutes.
 
