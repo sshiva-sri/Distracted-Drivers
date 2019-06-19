@@ -36,6 +36,7 @@ Parameters calculation:
 ___________________________
 
 For convolution layers the Parameters calculation is as follows: 
+
 No of parameters = Input layer * 	filter size * no of filters + bias
 ____________________________________________________________________
 conv2d_1 	params=320
@@ -52,6 +53,7 @@ conv2d_3 	params=73856
 ____________________
 
 For Flatten layer the Parameter calculation is as follows:
+
 max_pooling2d_3 (MaxPooling2 (None, 30, 30, 128)       
 
 flatten_1 (Flatten)          (None, 115200)           
