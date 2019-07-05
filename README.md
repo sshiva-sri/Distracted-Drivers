@@ -75,6 +75,16 @@ Problems Faced:
 * Initial Accuracy was just 10% .
 
 
+Experiments : 
+--------------
+First of all tried with simple CNN which did not yield a good performance.
+
+Used regularization technique for neural network models which also could not perform well.
+
+Finally introduction of Batch normalization gave a decent accuracy.
+
+
+
 Performance:
 ------------
 
